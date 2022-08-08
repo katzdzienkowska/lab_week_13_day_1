@@ -1,4 +1,4 @@
-public class BankCard {
+public abstract class BankCard {
 
     private String cardNumber;
     private String expiryDate;
